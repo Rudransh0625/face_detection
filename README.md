@@ -95,7 +95,7 @@ python webcam_face_detection.py
 ## 📬 Contact & Demo
 
 - 🔗 **LinkedIn**: [Your Name](https://www.linkedin.com/in/your-profile/)  
-- 📧 **Gmail**: [yourname@gmail.com](https://www.rudransh.singh.in01@gmail.com)  
+- 📧 **Gmail**: [rudransh.singh.in01@gmail.com](https://www.rudransh.singh.in01@gmail.com)  
 - ▶️ **Demo Video on YouTube**: [Watch here](https://www.youtube.com/watch?v=JZZr0PjZsIk)
 
 ## 🔗 View on GitHub
