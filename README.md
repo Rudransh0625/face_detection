@@ -98,7 +98,7 @@ python webcam_face_detection.py
 - 📧 **Gmail**: [yourname@gmail.com](mailto:yourname@gmail.com)  
 - ▶️ **Demo Video on YouTube**: [Watch here](https://www.youtube.com/watch?v=JZZr0PjZsIk)
 
-[🔗 View on GitHub](https://github.com/ageitgey/face_recognition)
+## 🔗 View on GitHub
 <p align="center">
   <a href="https://github.com/ageitgey/face_recognition" target="_blank">
     <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" alt="View on GitHub">
